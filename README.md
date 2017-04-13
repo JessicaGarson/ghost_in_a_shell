@@ -1,1 +1,2 @@
-# ghost_in_a_shell
+# Ghost in a Shell
+A open source project for beginners! 
